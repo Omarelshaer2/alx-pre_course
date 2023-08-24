@@ -1,7 +1,7 @@
 # ALX_PRE_COURSE
 
 ## Languages
-  bash, C , javascript, python
+  bash, C , 
 
 ## Description
   This repository is made for learning purpose according to alx assignments.
